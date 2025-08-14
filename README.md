@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RobbieM13
-- 🎓 3rd Year Physics at Lancaster University, England
-- 📫 How to reach me: uni email r.messenger@lancaster.ac.uk
+- 🎓 MPhys Physics grad from Lancaster University, England
+- 🔌 Graduate Power Systems Consultant @ Blake Clough Consulting
+- 📫 How to reach me: work email Robert.Messenger@blakeclough.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: It's cold and rainy! 
 
